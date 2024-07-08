@@ -24,6 +24,7 @@ cd Fraud-Detection
 pip install -r requirements.txt
 
 *Ensure that the dataset file creditcard.csv is placed in the project directory.*
+Dataset link: https://drive.google.com/drive/folders/1QR6NOM_fMfTvyIrMYrmfJNpbcNifamXV?usp=sharing
 
 **Usage**
 
